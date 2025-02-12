@@ -1,3 +1,6 @@
+---
+layout: home
+---
 
 # Soon to be a living CV
 

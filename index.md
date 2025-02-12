@@ -1,7 +1,5 @@
 ---
-theme: minima
-title: Soon to be a living CV
-description: So I'll only have to share a QR code!
+layout: home
 ---
 
 # Soon to be a living CV

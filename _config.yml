@@ -1,5 +1,6 @@
----
-theme: jekyll/minima
-title: Soon to be a living CV
-description: So I'll only have to share a QR code!
----
+theme: minima
+
+minima:
+  skin: auto
+  custom_css:
+    - assets/css/style.css

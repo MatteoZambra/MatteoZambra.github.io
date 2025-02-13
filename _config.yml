@@ -1,6 +1,10 @@
-theme: minima
+# theme: minima
+remote_theme: "mmistakes/minimal-mistakes"
 
-minima:
-  skin: auto
-  custom_css:
-    - assets/css/style.css
+#minima:
+#  skin: auto
+#  custom_css:
+#    - assets/css/style.css
+
+plugins:
+  - jekyll-include-cache

@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 
+title: Home
 ---
 
 # Soon to be a living CV

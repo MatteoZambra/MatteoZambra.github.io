@@ -1,8 +1,10 @@
 ---
 layout: page
-title: Contact Information and Online Presence
+title: Contact
 permalink: /about
 ---
+
+# Contact Information and Online Presence
 
 Contacts: 
 * Mail: mail@mail.com

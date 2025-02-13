@@ -1,6 +1,8 @@
-theme: minima
+remote_theme: mmistakes/minimal-mistakes
 
-minima:
- skin: dark
- custom_css:
-   - assets/css/style.css
+# theme: minima
+
+# minima:
+#  skin: dark
+#  custom_css:
+#    - assets/css/style.css

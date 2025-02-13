@@ -1,6 +1,6 @@
 theme: minima
 
 minima:
- skin: auto
+ skin: dark
  custom_css:
    - assets/css/style.css

@@ -11,9 +11,10 @@ p {
 }
 
 footer {
-  display: none; /* Hides the entire footer */
+    font-size: 0; /* Hides all text in the footer */
 }
 
-footer p {
-  visibility: hidden;
+footer p::before {
+    content: "© " attr(data-year) " Your Custom Text Here"; 
+    font-size: 14px; /* Keeps only your custom footer text */
 }

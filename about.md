@@ -1,12 +1,9 @@
 ---
 layout: page
-title: Contact
+title: About him
 permalink: /about
 ---
 
-# Contact Information and Online Presence
+# An overview
 
-Contacts: 
-* Mail: mail@mail.com
-* Mobile: +39 123234345
-* LinkedIn: linkedin.com/url
+Some words to introduce myself, etc
